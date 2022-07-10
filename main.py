@@ -1,1 +1,2 @@
-print('Olá mundo!')
+cmd = "@ECHO OFF"
+print(cmd ,'Olá mundo!')
