@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-br">
 
   <head>
@@ -10,17 +11,17 @@
     <title>Resume - Start Bootstrap Theme</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="site/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
     <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
-    <link href="site/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="site/vendor/devicons/css/devicons.min.css" rel="stylesheet">
-    <link href="site/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
+    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="site/css/resume.min.css" rel="stylesheet">
+    <link href="css/resume.min.css" rel="stylesheet">
 
   </head>
 
@@ -49,12 +50,6 @@
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
           </li>
         </ul>
       </div>
@@ -117,9 +112,9 @@
               <h3 class="mb-0">Senior Web Developer</h3>
               <div class="subheading mb-3">Intelitec Solutions</div>
               <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">March 2013 - Present</span>
+              <div class="resume-date text-md-right">
+                <span class="text-primary">March 2013 - Present</span>
+              </div>
             </div>
           </div>
 
@@ -295,14 +290,14 @@
     </div>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="site/vendor/jquery/jquery.min.js"></script>
-    <script src="site/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="site/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="site/js/resume.min.js"></script>
+    <script src="js/resume.min.js"></script>
 
   </body>
 
